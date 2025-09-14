@@ -1,6 +1,5 @@
-a = int(input())
-b = int(input())
+a = float(input())
+b = float(input())
+x=int(abs(a/b))
 
-print(a//b)
-print(a/b)
-
+print(x)
