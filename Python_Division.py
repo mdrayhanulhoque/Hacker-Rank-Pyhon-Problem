@@ -1,5 +1,5 @@
 a = float(input())
 b = float(input())
-x=int(abs(a/b))
+x=int(a/b)
 
 print(x)
